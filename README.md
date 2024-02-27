@@ -1,2 +1,2 @@
-# HTML-Table
+# HTML-Time-Table
 I developed this HTML Table.
